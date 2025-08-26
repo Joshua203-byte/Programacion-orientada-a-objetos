@@ -1,0 +1,10 @@
+4
+El Hobbit|J.R.R. Tolkien|1
+1984|George Orwell|1
+El principito|Yo|0
+Pepe y sus amigos|Arlette Izel|1
+4
+admin|123
+Joshua|Joshua
+joshua|joshua
+emiliano|emiliano
